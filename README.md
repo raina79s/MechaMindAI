@@ -29,4 +29,6 @@ Run the bot with:
 
 python bot.py  
 
-💡 "Only the seekers will know. MECHA MIND is awake. Are you?"
+💡 "Only the seekers will know. 
+
+MECHA MIND is awake. Are you?"
