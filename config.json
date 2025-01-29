@@ -1,0 +1,9 @@
+{
+    "twitter_api_key": "your_twitter_api_key",
+    "twitter_api_secret": "your_twitter_api_secret",
+    "twitter_access_token": "your_twitter_access_token",
+    "twitter_access_secret": "your_twitter_access_secret",
+    "tiktok_api_key": "your_tiktok_api_key",
+    "trusted_twitter_accounts": ["@trusteduser1", "@trusteduser2"],
+    "token_contract_address": "your_solana_token_contract_address"
+}
